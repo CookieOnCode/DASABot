@@ -5,7 +5,7 @@ _amol is **very** hot_
   <img src="https://contrib.rocks/image?repo=DASA-boys/DASA-Bot" />
 </a>
 
-Built by [Cookie](https://github.com/CookieOnCode):
+[Cookie](https://github.com/CookieOnCode):
 
 ### Following are the required pre-requisites:
 The following libraries can also be found in `requirements.txt` by running the following command:  
