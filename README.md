@@ -1,11 +1,5 @@
 _amol is **very** hot_
 
-### Contributors:
-
-- [Haz3jolt](https://github.com/CookieOnCode):
-- [Scarred](https://github.com/CookieOnCode):
-- [Cookie](https://github.com/CookieOnCode):
-- [Amol](https://github.com/CookieOnCode):
 
 ### Following are the required pre-requisites:
 The following libraries can also be found in `requirements.txt` by running the following command:  
@@ -51,3 +45,11 @@ Upon this, there are multiple methods to execute specific functions:
 - `analysis` returns three lists each containing the names of colleges filtered out by the difference between the user's CRL and college's Round 3 JEE Closing cutoff  
 
 NOTE: The code assumes the presence of the `gspread` library and a valid service account JSON file with the appropriate access to the Google Sheet.
+
+### Contributors:
+
+- [Haz3jolt](https://github.com/CookieOnCode):
+- [Scarred](https://github.com/CookieOnCode):
+- [Cookie](https://github.com/CookieOnCode):
+- [Amol](https://github.com/CookieOnCode):
+
